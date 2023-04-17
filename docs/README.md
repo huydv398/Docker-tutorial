@@ -12,3 +12,10 @@
 1. []()
 1. []()
 1. []()
+
+Link tài liệu tham khảo:
+* [Github Học chủ động](https://github.com/hocchudong/ghichep-docker/blob/master/docs/README.md)
+* []()
+* []()
+* []()
+* []()
